@@ -1,3 +1,0 @@
-E:/Work/Abertay/Year 4/CMP 408/kiosk-local/cmake-build-debug/CMakeFiles/kiosk_local.dir
-E:/Work/Abertay/Year 4/CMP 408/kiosk-local/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Work/Abertay/Year 4/CMP 408/kiosk-local/cmake-build-debug/CMakeFiles/rebuild_cache.dir
